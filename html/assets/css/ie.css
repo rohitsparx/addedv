@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+/*ul.nav , ul.nav li a , ul.nav li a:hover , ul.nav li.active a , .gallery blockquote , input[type="text"] {behavior: url(PIE.htc);}*/
+
+/* ul.nav , ul.nav li a , ul.nav li a:hover , ul.nav li.active a  {behavior: url(PIE.htc); position:relative;} */
+
+
+input[type="text"]{/*border:1px solid #dcb842; position:relative;  behavior: url(PIE.htc);*/ background:url(../images/input-yellow.png) no-repeat left top;}
+.white input[type="text"]{ border:1px solid #efefef;}
+
