@@ -1,0 +1,15 @@
+{
+    "name": "First est rohit",
+    "description": "this is desc from composer file",
+    "keywords": ["heroku", "foreman", "php", "hhvm", "apache", "apache2", "nginx"],
+    "homepage": "http://www.rohit.com",
+    "type": "",
+    "license": "",
+    "authors": [
+        {
+            "name": "Rohit Garggg",
+            "email": "rgaarg.com"
+        }
+    ],
+    "bin": []
+}
